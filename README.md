@@ -4,4 +4,4 @@ The aim of the project is the creation of a Movie Recommendation System in Pytho
 
 The project was created as part of the course "Artificial Intelligence" at School of Electrical and Computer Engineering, NTUA and the aim of this work is NOT to present it as my own research but as my approach to the problems given. We highlight that the project was implemented in Google Colab so parts of the code like the file management was done through this environment. Moreover, part of the code was given in the prompt (in Greek).
 
-Special thanks to my fellow student, Georgios Tzamouranis (https://github.com/giorgostzamouranis) , with whom I collaborated on the implementation of this project.
+Special thanks to my fellow student, Georgios Tzamouranis (https://github.com/giorgostzamouranis) , with whom I collaborated for the implementation of this project.
